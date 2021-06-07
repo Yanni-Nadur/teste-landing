@@ -1,0 +1,41 @@
+
+.color-section-head{
+    background-color: #325288;
+}
+
+.pad-section-concurso{
+    padding: 10% 0 5% 0;
+    background: #f4eee8;
+}
+
+.img-pd{
+    margin: 0 10% 0 10%;
+    border-style: solid;
+    border-color: royalblue;
+    border-width: 5px;
+}
+
+.alinhamento{
+    margin-top: 14%;
+}
+
+.pad-section-como-particip{
+    padding: 10% 25% 10% 25%;
+    background: #f8f9fa;
+   
+}
+
+.pad-section-participe{
+    padding: 5% 5% 3% 5%;
+    background: #f4eee8;
+}
+
+.contact-form{
+    padding: 5% 10% 5% 10%;
+}
+
+.btn-enviar{
+    width: 200px;
+    background-color: royalblue;
+    color: white;
+}
